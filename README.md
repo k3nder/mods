@@ -7,3 +7,9 @@ MCLCU es una libreria para los launcher de minecraft esta libreria se usa para t
     JsonUtils.readVersions("");'
 usa esto para obtener una lista en forma de array con las versiones a poder descargar, en los "" va la url del manifienso generalmente es 'https://launchermeta.mojang.com/mc/game/version_manifest.json'
 
+<pre>
+```python
+def funcion_ejemplo():
+    print("Esto es un ejemplo de bloque de código.")
+```
+</pre>
